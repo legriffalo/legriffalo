@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Nick (legriffalo)
 
-## 🚀 Full Stack Developer | Data Aalayst| Educator
+## 🚀 Full Stack Developer | Data Analayst| Educator
 
 <div align="center">
   <img src="https://your-banner-image-url.png" alt="banner" width="100%"/>
@@ -34,7 +34,7 @@
 
 ### 🤝 Connect With Me
 <p align="left">
-<a href="your-linkedin-url">
+<a href="https://www.linkedin.com/in/nick-griffiths-7b139198/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="your-twitter-url">
