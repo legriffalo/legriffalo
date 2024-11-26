@@ -2,14 +2,11 @@
 
 ## 🚀 Full Stack Developer | Data Analayst| Educator
 
-<div align="center">
-  <img src="https://your-banner-image-url.png" alt="banner" width="100%"/>
-</div>
-
 ### 💫 About Me
 
 Pseudonym came from snaffling biscuits in the staff room back when I was a broke 23 yearold Math and Physics teacher.
-Jack of many trades from multiple sectors, teaching, college, Data, Start/scale up, tech, consulting, now developer.
+
+I'm a Jack of many trades having spent time in multiple sectors; teaching, college, Data, Start/scale up, tech, consulting, now developer.
 
 - 🔭 I'm currently working on new Android applications
 - 🌱 I'm learning Ollama, Adding to my ML repetoir
