@@ -24,10 +24,13 @@
 </p>
 
 ### 📊 GitHub Stats
+
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=legriffalo&show_icons=true&theme=radical"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=legriffalo&layout=compact&theme=radical"/>
 </div>
+
+### 📈 Activity Graph
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=legriffalo&theme=github)
 
 ### 🤝 Connect With Me
 <p align="left">
@@ -39,7 +42,6 @@
 </a>
 </p>
 
-### 📈 Activity Graph
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=legriffalo&theme=github)
+
 ---
 ⭐️ From [Nick G](https://github.com/yourusername)
