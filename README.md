@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Nick (legriffalo)
 
-## 🚀 Full Stack Developer | Data Analayst| Educator
+## 🚀 Full Stack Developer | Data Analayst | Educator
 
 ### 💫 About Me
 
