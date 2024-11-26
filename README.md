@@ -6,7 +6,9 @@
 
 Pseudonym came from snaffling biscuits in the staff room back when I was a broke 23 yearold Math and Physics teacher.
 
-I'm a Jack of many trades having spent time in multiple sectors; teaching, college, Data, Start/scale up, tech, consulting, now developer.
+I'm a Jack of many trades having spent time in multiple sectors; teaching, college, Data, Start/scale up, tech, consulting.
+
+Currently a full stack developer building applications in Python, JS and SQL.
 
 - 🔭 I'm currently working on new Android applications
 - 🌱 I'm learning Ollama, Adding to my ML repetoir
