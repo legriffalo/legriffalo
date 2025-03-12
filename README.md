@@ -27,10 +27,8 @@ Currently a full stack developer building applications in Python, JS and SQL.
 
 ### 📊 GitHub Stats
 
-<div align="center">
-<img height="180em" 
-     src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language.svg?username=legriffalo&rand=<script>document.write(Math.random());</script>" />
-</div>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=legriffalo&layout=compact&theme=radical&rand={{random_number}})
+
 
 ### 📈 Activity Graph
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=legriffalo&theme=github)
