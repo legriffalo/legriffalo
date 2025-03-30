@@ -25,13 +25,7 @@ Currently a full stack developer building applications in Python, JS and SQL.
 <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
 </p>
 
-### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=legriffalo&show_icons=true&count_private=true&hide=prs&theme=radical)
-
-## My Top Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
 
 
 ### 🤝 Connect With Me
