@@ -13,7 +13,7 @@ Currently a full stack developer building applications in Python, JS and SQL.
 - 🔭 I'm currently working on new Android applications
 - 🌱 I'm learning Ollama, Adding to my ML repetoir
 - 👯 Looking to collaborate on innovative projects
-- 💬 Ask me about Web Development, Python, ML, data
+- 💬 ask me about Web Development, Python, ML, data
 
 ### 🛠️ Tech Stack
 <p align="left">
