@@ -4,7 +4,7 @@
 
 ### 💫 About Me
 
-Pseudonym came from snaffling biscuits in the staff room back when I was a broke 23 year-old Maths and Physics teacher (Griffiths + Gruffalo => Griffalo).
+Pseudonym came from snaffling biscuits in the staff room back when I was a broke Maths and Physics trainee teacher (Griffiths + Gruffalo => Griffalo).
 
 I'm a Jack of many trades having spent time in multiple sectors; teaching, college, Data, Start/scale up, tech, consulting.
 
